@@ -1,0 +1,38 @@
+{
+  "launch": {
+    "montra": "montra"
+  },
+  "login": {
+    "controllMoney": "Gain total control of your money",
+    "moneyManager": "Become your own money manager and make every cent count",
+    "knowMoney": "Know where your money goes",
+    "trackTransaction": "Track your transaction easily,with categories and financial report",
+    "planning": "Planning ahead",
+    "setupBuget": "Setup your budget for each categoryso you in control",
+    "signUp": "Sign Up",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "forgetPassword": "Forgot Password?",
+    "dontHaveAccount": "Don’t have an account yet? "
+  },
+  "home": {
+    "home": "Home",
+    "transaction": "Transaction",
+    "budget": "Budget",
+    "profile": "Profile",
+    "accountBalance": "Account Balance",
+    "income": "Income",
+    "expenses": "Expenses",
+    "spendFrequency": "Spend Frequency",
+    "today": "Today",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year",
+    "recentTransaction": "Recent Transaction",
+    "seeAll": "See All",
+    "shopping": "Shopping",
+    "subscription": "Subscription",
+    "food": "Food"
+  }
+}
