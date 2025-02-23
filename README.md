@@ -4,10 +4,12 @@
 
 ## 🖼️ 預覽
 
-![應用程式截圖](screenshot/launch.png)
-![應用程式截圖](screenshot/sign_up.png)
-![應用程式截圖](screenshot/login.png)
-![應用程式截圖](screenshot/home.png)
+<p align="center">
+  <img src="screenshot/launch.png" alt="應用程式截圖" width="400">
+  <img src="screenshot/sign_up.png" alt="應用程式截圖" width="400">
+  <img src="screenshot/login.png" alt="應用程式截圖" width="400">
+  <img src="screenshot/home.png" alt="應用程式截圖" width="400">
+</p>
 
 ## 🎨 設計來源
 
